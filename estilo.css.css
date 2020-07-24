@@ -1,0 +1,57 @@
+.principal{
+    background-image: url('img/fondocookings.png');
+    background-size: cover;  
+    background-repeat:no-repeat;
+    font-family:'Dancing Script', cursive;^
+    text-align: center;
+    padding:100px;
+}
+
+.sushi{
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+}
+.curso{
+background-color: beige;
+color: black;
+text-align: center;
+}   
+.botoncurso{
+    width: 200px;
+    height: 35px;
+    background-color:lightgrey;
+    border-radius: 25px;
+    border: none;
+     font-size: 15px;
+    cursor: pointer;
+}   
+.sushiboton{
+   width: 250px; 
+   height: 40px;
+   background-color: wheat;
+   border-radius: 25px;
+   border: none;
+   font-size: 15px;
+   cursor: pointer; 
+}
+.sopita{
+    background-color: grey;
+    color: ivory;
+    text-align: center;
+}   
+.botonsopita{
+    width: 250px;
+    height: 40px;
+    background-color: linen;
+    border-radius: 25px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+}   
+
+.redessociales{
+    text-align: center;
+    text-align: right;
+    text-align: left;
+}
